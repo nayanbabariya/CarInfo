@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "vehicle_name": "Swift VDI",
+    "model_name" : "Suzuki",
+    "age": "2 Year 3 Months",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Maruti-Swift-2011-2014/2522/front-left-side-47.jpg"
+  },
+  {
+    "id": 2,
+    "vehicle_name": "Verna",
+    "model_name" : "Hyundai",
+    "age": "3 Year 7 Months",
+    "image": "https://cdn.spincar.com/swipetospin-viewers/CarDekhoStudio/2990752/20211218140437.IJC8AYL2/closeups/cu-1.jpg"
+  },
+  {
+    "id": 3,
+    "vehicle_name": "Vento",
+    "model_name" : "Volkswagen",
+    "age": "1 Year 1 Month",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Volkswagen/Vento/8107/Volkswagen-Vento-Red-And-White-Edition/1603081821300/front-left-side-47.jpg"
+  },
+  {
+    "id": 4,
+    "vehicle_name": "Fortuner",
+    "model_name" : "Toyota",
+    "age": "5 Months",
+    "image": "https://stimg2.cardekho.com/images/carNewsEditorImages/userimages/20201228_093838/26536/toyota0.jpg?tr=w-420"
+  },
+  {
+    "id": 5,
+    "vehicle_name": "Eco Sport",
+    "model_name" : "Ford",
+    "age": "3 Year",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Ford/EcoSport/7323/1609839628163/front-left-side-47.jpg"
+  },
+  {
+    "id": 6,
+    "vehicle_name": "Duster",
+    "model_name" : "Renault",
+    "age": "2 Year 8 Months",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Renault/Duster/7704/1598257607089/front-left-side-47.jpg"
+  }
+]
